@@ -23,3 +23,6 @@ DATA STRUCTURES AND ALGORITHMS-
 1 Mismatch: This is flagged as a "Mutation" - the disease might be developing or present in a variant form.
 
 4.	Weighted Algorithm-   It uses a Weighted Algorithm to decide how worried a doctor should be. It assigns a pointer (score) to the similarity % and another pointer to the number of diseases found. It gives more importance (70% weight) to the specific diseases found and less importance (30% weight) to the general similarity. This ensures that even if someone is 99% "normal," finding one dangerous disease marker will still trigger a high-risk warning.
+
+Drive link for the video:
+https://drive.google.com/drive/folders/10wq-kpw1N4nF5oKwB1MZr8sQtmtvgHOO
